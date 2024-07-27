@@ -1,0 +1,11 @@
+#!/bin/bash
+
+##[include]
+source /Users/scetayh/Desktop/test1.lib.sh
+source /Users/scetayh/Desktop/test2.lib.sh
+##[end]
+
+echo "" "\"" "abcde
+
+F1
+F2
